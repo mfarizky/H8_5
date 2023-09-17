@@ -1,0 +1,17 @@
+name: null
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - xlrd  # xls - excel 2003
+  - openpyxl  # xlsx - excel baru
+  - wordcloud
+  - seaborn
+  - folium
+  - scipy
