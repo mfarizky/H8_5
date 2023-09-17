@@ -1,4 +1,4 @@
-name: null
+name: hlc
 channels:
   - conda-forge
   - defaults
@@ -15,3 +15,4 @@ dependencies:
   - seaborn
   - folium
   - scipy
+  - tensorflow
