@@ -17,3 +17,4 @@ dependencies:
   - scipy
   - tensorflow
   - pillow
+  - scikit-learn
